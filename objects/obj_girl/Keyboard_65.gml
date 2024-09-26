@@ -1,3 +1,3 @@
 // move up
-image_speed = 1
+image_speed = 5
 x = x - 5;
