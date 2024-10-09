@@ -6,3 +6,4 @@ path_position=random(1);
 
 
 image_speed=(0.5);
+
